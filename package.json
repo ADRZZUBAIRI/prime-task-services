@@ -1,0 +1,9 @@
+{
+  "name": "prime-task-services",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prime Task Services - Property Maintenance & Handyman Demo Showcase",
+  "scripts": {
+    "deploy": "npx wrangler deploy"
+  }
+}
